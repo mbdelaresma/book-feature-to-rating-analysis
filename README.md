@@ -1,4 +1,4 @@
-# Book Feature to Rating Analysis
+# The Anatomy of a Goodreads Book Rating: Book Feature to Rating Analysis
 
 Data Mining and Wrangling Course Submission
 
