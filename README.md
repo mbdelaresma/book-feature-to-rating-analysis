@@ -2,9 +2,9 @@
 
 Data Mining and Wrangling Course Submission
 
-# Executive Summary
+See full report [HERE](https://github.com/mbdelaresma/book-feature-to-rating-analysis/blob/main/FinalReport.html)
 
-See full report [HERE]()
+# Executive Summary
 
 Goodreads is the leading book review website trusted by millions of users worldwide. In this project, our group analyzed the different book features and their relationship with book ratings. This was done using various data mining, wrangling, and visualization techniques. Results show that the most likely predictors for book rating are the number of book pages and the number of ratings. Insights on the other feature interactions also emerged. It was found that e-books are more prevalent for the romance genre and scarce for children’s books and comics. Further, faster reading time is observed for the e-book format. The data also validated the common notion that reading time is longer for books with higher number of pages and that there is a higher occurrence of text reviews compared to non-text.
 
