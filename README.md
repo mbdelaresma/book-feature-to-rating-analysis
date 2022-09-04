@@ -2,7 +2,7 @@
 
 Data Mining and Wrangling Course Submission
 
-See full report [HERE](https://github.com/mbdelaresma/book-feature-to-rating-analysis/blob/main/FinalReport.html)
+See full report [HERE](https://github.com/mbdelaresma/book-feature-to-rating-analysis/blob/main/FinalReport.ipynb)
 
 # Executive Summary
 
