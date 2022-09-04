@@ -13,8 +13,13 @@ Since there are limited book features in the dataset, it is recommended in futur
 # Contributors
 
 dela Resma, Marvee
+
 Ginez, Zhoya
+
 Inocencio, Ken
+
 Nepomuceno, Colleen
+
 Piquero, Geran
+
 Punzalan, Paolo
